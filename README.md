@@ -45,6 +45,7 @@ Optimized for reporting
 
 ## Dashboard (Power BI)
 <img width="383" height="474" alt="image" src="https://github.com/user-attachments/assets/6c3e62cc-b000-4905-b81e-576174945be5" />
+
 Tool: Microsoft Power BI
 KPIs:
        Total Posts (100)
