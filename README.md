@@ -47,11 +47,13 @@ Optimized for reporting
 <img width="383" height="474" alt="image" src="https://github.com/user-attachments/assets/6c3e62cc-b000-4905-b81e-576174945be5" />
 
 Tool: Microsoft Power BI
+
 KPIs:
        Total Posts (100)
        Total Comments (500)
        Avg Comments/Post (5)
        Active Users (10)
+       
 Visuals:
        Posts per user (bar chart)
        Post details table
@@ -60,9 +62,11 @@ Visuals:
        Body length analysis
        Top 10 posts
        User contribution (donut chart)
+       
 Filters: User ID, Email, Post ID
 
 ## Tools Used
+
 Azure Data Factory
 Azure Data Lake Storage Gen2
 Azure Databricks
