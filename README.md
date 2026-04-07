@@ -1,4 +1,4 @@
-## Log Analytics 
+## Log Data Processing System
 Project Overview
 End-to-end data engineering pipeline
 Data ingested from API → processed → visualized in Power BI
